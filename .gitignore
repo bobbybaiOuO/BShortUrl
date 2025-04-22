@@ -1,7 +1,0 @@
-# IDE 相关文件
-.idea/
-.vscode/
-
-# 临时文件和日志文件
-*.tmp
-*.log
