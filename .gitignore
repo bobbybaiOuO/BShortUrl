@@ -5,3 +5,5 @@
 # 临时文件和日志文件
 *.tmp
 *.log
+
+.gitignore
